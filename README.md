@@ -34,13 +34,13 @@ To implement InceptionV3, we start by loading the pre-trained model, which comes
 I will utilize the **VGG16** (Visual Geometry Group) architecture, which have deeper and complex structures. These models are renowned for their exceptional performance on various image recognition tasks. By leveraging the pre-trained weights of VGG, I can benefit from the learned features and fine-tune the network for image segmentation on the Lemon Quality Dataset.
 
 **Accuracy Comparison**
-                                                                
-                                                                | `Model`  | `Accuracy` |
-                                                                |--------|----------|
-                                                                | VGG16  |   97%    |
-                                                                | InceptionV3 | 88% |
-                                                                | InceptionResNetV2 | 88% |
-                                                                | MobileNet | 97% |
+
+| `Model`  | `Accuracy` |
+|--------|----------|
+| VGG16  |   97%    |
+| InceptionV3 | 88% |
+| InceptionResNetV2 | 88% |
+| MobileNet | 97% |
 
 Since the models' decent levels of accuracy(88% and above) means that most of their pictures will be almost havinG similar predicted labels with a small room for mistake, the anticipated labels for the sign image labels are as are visualised as follows.
 
