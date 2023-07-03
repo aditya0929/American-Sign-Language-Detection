@@ -132,7 +132,16 @@ These classes represent the hand gestures corresponding to the English alphabets
 
 **11. Additionally , the model architecture can also be visualized .**
   
-**12. Learning Resources - ** 
+**12. Learning Resources**
+   
+   1.[Transfer Learning](https://towardsdatascience.com/a-comprehensive-hands-on-guide-to-transfer-learning-with-real-world-applications-in-deep-learning-212bf3b2f27a)
+  
+   2.[cnn-architectures](https://medium.com/@RaghavPrabhu/cnn-architectures-lenet-alexnet-vgg-googlenet-and-resnet-7c81c017b848)
+  
+   3.[how to build your own neural network](https://medium.com/towards-data-science/how-to-build-your-own-neural-network-from-scratch-in-python-68998a08e4f6)
+   
+4. [popular deep learning architectures](https://blog.paperspace.com/popular-deep-learning-architectures-resnet-inceptionv3-squeezenet/)
+
 
   
    
