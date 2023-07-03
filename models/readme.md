@@ -49,3 +49,21 @@ Here are the classes present in the ASL Dataset, formatted in a table for better
 | 9       |
 
 These classes represent the hand gestures corresponding to the English alphabets (A-Z) and numbers (0-9) in American Sign Language.
+
+## Important note:-
+**for all the three models that i have created, the parts excluding the model architecture and its definition are mostly the same for the accuracy result to be based out on the same parameters.**
+
+
+# Approach for Multi-Instance Image Classification
+
+**1. Importing important libaries**
+
+**2. Loading the datasets and creating image and label list for each category** 
+
+**3. Division of train test ad split of the dataset**
+
+**4. Data preprocessing and Image data generators**
+
+**5. Division for images in training , testing and validation categories**
+
+**6. Making of the models**
