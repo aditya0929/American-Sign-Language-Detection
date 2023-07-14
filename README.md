@@ -62,4 +62,4 @@ I will evaluate their performance using appropriate metrics. Additionally, I wil
 
 **Future Scope**
 
-T
+ON DEPLOYMENT THESE MODEL WILL HAVE A PURPOSE OF DEVELOPING SENSE AND INTERPRETATION OF THE SIGN LANGUAGES 
