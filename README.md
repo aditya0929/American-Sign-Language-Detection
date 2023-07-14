@@ -62,4 +62,4 @@ I will evaluate their performance using appropriate metrics. Additionally, I wil
 
 **Future Scope**
 
-This project will contribute to advancing the understanding and application of deep learning in the field of computer vision and could potentially find applications in sorting of sign languages in different classes.
+T
