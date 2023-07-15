@@ -1,5 +1,5 @@
 # American Sign Language Detection/https://github.com/World-of-ML/DL-Simplified/issues/312
-to predict correct sign language labels corresponding to their corresponding sign images
+
 
 
 
