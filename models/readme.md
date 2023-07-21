@@ -1,4 +1,4 @@
- # American Sign Language Detection
+# American Sign Language Detection
 ![image](https://github.com/aditya0929/American-Sign-Language-Detection/assets/127277877/65a94bda-c367-40ad-ac40-1f44c2ed1577)
 
 
