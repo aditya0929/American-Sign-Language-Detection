@@ -16,6 +16,7 @@ Approach for this Project :
 **Image segmentation**
 
 is a crucial task in computer vision that involves identifying and classifying different regions or objects within an image. In this project, I will explore three different approaches for image segmentation using deep learning models: **VGG16**,  **MobileNet** . **InceptionV3** and **InceptionResNetV2**.
+the sign langauge dataset images had black background behind of hand signs and it the resolution was 680x480 pixels
 
 
 `InceptionResNetV2` 
